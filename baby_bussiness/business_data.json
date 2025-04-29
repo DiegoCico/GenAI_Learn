@@ -1,0 +1,46 @@
+{
+    "quarter": "Q1 2025",
+    "team_size": 3,
+    "employees": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "position": "Senior Business Strategist",
+        "productivity": 85.4,
+        "sales": 125000,
+        "expenses": 55000,
+        "projects_completed": 4,
+        "client_satisfaction": 92.0,
+        "growth_percentage": 7.8,
+        "revenue": 180000,
+        "profit": 70000
+      },
+      {
+        "id": 2,
+        "name": "Jane Smith",
+        "position": "Marketing Manager",
+        "productivity": 78.2,
+        "sales": 95000,
+        "expenses": 30000,
+        "projects_completed": 3,
+        "client_satisfaction": 88.5,
+        "growth_percentage": 5.4,
+        "revenue": 140000,
+        "profit": 60000
+      },
+      {
+        "id": 3,
+        "name": "Alice Johnson",
+        "position": "Sales Lead",
+        "productivity": 90.1,
+        "sales": 150000,
+        "expenses": 65000,
+        "projects_completed": 5,
+        "client_satisfaction": 95.0,
+        "growth_percentage": 10.2,
+        "revenue": 210000,
+        "profit": 80000
+      }
+    ]
+  }
+  
